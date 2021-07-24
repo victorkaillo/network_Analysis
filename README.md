@@ -9,4 +9,10 @@ Atividades da disciplina Network Analysis
 
 - Week 02 
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorkaillo/network_Analysis/blob/main/Lesson_2_Exercise.ipynb) [Exercises](https://github.com/victorkaillo/network_Analysis/blob/main/Lesson_2_Exercise.ipynb)
- 
+- Week 05 
+  - Atividade com dataset de aeroportos brasileiros:
+   - networkx
+   - matplotlib.pyplot
+   - nxviz
+   - GeoPlot
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorkaillo/network_Analysis/blob/main/Redes_voos_brasil.ipynb) [Exercises](https://github.com/victorkaillo/network_Analysis/blob/main/Redes_voos_brasil.ipynb)
