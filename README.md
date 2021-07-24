@@ -1,6 +1,6 @@
-##Grupo:
-###Victor Kaillo
-###Kayck Danny
+## Grupo:
+### Victor Kaillo
+### Kayck Danny
 # network_Analysis
 Atividades da disciplina Network Analysis
 # Universidade Federal do Rio Grande do Norte
