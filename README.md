@@ -15,4 +15,4 @@ Atividades da disciplina Network Analysis
     - matplotlib.pyplot
     - nxviz
     - GeoPlot
-    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorkaillo/network_Analysis/blob/main/Redes_voos_brasil.ipynb) [Exercises](https://github.com/victorkaillo/network_Analysis/blob/main/Redes_voos_brasil.ipynb)
+    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorkaillo/network_Analysis/blob/main/Redes_voos_brasil.ipynb) [Rede de tráfico aéreo brasileiro](https://github.com/victorkaillo/network_Analysis/blob/main/Redes_voos_brasil.ipynb)
